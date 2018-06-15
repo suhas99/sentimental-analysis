@@ -28,14 +28,14 @@ PrepareTwitter()
 
 Authentication<-function()
 {
-  consumer_key <-"EH0BUyWGL3Q1x2n7tXc2JALgP"
-  consumer_secret <- "r1Epe6aKmpTfMaq0fsI5qCV6A9jvGuhzqrkVIGCm7YV0abNnpK"
-  access_token<-"948219954628665345-Mnu7D6LQafUx9FGjCas4I3ul8EMwIf0"
-  access_secret <- "DQCRIWubjNX67ftCUBUt3tqw20MDn26LJdS9OocKkhorI"
+  consumer_key <-"xxxxxxxxxx"
+  consumer_secret <- "xxxxxxxxxxx"
+  access_token<-"xxxxxxxxxxxx"
+  access_secret <- "xxxxxxxxxx"
   
   setup_twitter_oauth(consumer_key ,consumer_secret, access_token,  access_secret )
   
-  cred <- OAuthFactory$new(consumerKey='EH0BUyWGL3Q1x2n7tXc2JALgP', consumerSecret='r1Epe6aKmpTfMaq0fsI5qCV6A9jvGuhzqrkVIGCm7YV0abNnpK',requestURL='https://api.twitter.com/oauth/request_token',accessURL='https://api.twitter.com/oauth/access_token',authURL='https://api.twitter.com/oauth/authorize')
+  cred <- OAuthFactory$new(consumerKey='xxxxxx', consumerSecret='xxxxx',requestURL='https://api.twitter.com/oauth/request_token',accessURL='https://api.twitter.com/oauth/access_token',authURL='https://api.twitter.com/oauth/authorize')
   
   cred$handshake
 }
