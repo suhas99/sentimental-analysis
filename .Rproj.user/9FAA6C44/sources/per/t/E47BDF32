@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524386196290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1023111241",
+    "id" : "E47BDF32",
+    "lastKnownWriteTime" : 1525849363,
+    "last_content_update" : 1525849363521,
+    "path" : "~/Downloads/sen4/sen4/sh/ui.R",
+    "project_path" : "sh/ui.R",
+    "properties" : {
+        "cursorPosition" : "0,14",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

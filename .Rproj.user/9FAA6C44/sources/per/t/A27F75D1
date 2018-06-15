@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524386195010.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2416277682",
+    "id" : "A27F75D1",
+    "lastKnownWriteTime" : 1524386281,
+    "last_content_update" : 1524386281886,
+    "path" : "~/Downloads/sen4/sen4/sh/server.R",
+    "project_path" : "sh/server.R",
+    "properties" : {
+        "cursorPosition" : "199,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
