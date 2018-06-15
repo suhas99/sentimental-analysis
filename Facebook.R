@@ -7,7 +7,7 @@ library("rjson")
 library("httpuv")
 
 
-access_token<-"EAACEdEose0cBAGGgDXBsvNQdF4wLcsfiZACXfXh8omZACt7tbpeJAYQnkEUgMQTZA2oV7jbeZAVytiBAIoTJBDulWPotCNALAoU3XQJXWN8WYvccIdvU1UzQ5VOWVg3FtsfwtwE1nVqzsc07kSU6np8wV8r00Bgiz9fX4niZBUZAssxVP7K17bNuYLKmHG9dgZD"
+access_token<-"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 me<-searchFacebook(string ="narendramodi",token =access_token,n=100,since ="yesterday 00:00", until ="yesterday 23:59" )
 
 fburl_Query<-"https://graph.facebook.com/v2.12/177526890164"
